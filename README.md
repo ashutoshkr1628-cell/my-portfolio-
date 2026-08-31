@@ -1,5 +1,5 @@
 # Ashutosh | Freelance Frontend Developer
-
+direct link : https://portfolio-display-211.preview.emergentagent.com/?utm_source=share
 Welcome to my portfolio repository! I am a passionate frontend developer dedicated to bringing digital visions to reality by crafting high-performance, visually engaging, and responsive web experiences. 
 
 I believe a great website should not only look stunning but also feel effortless to use. By putting user needs at the center of my development process, I ensure every interface is intuitive, responsive, and accessible.
